@@ -1,11 +1,13 @@
 .input-error{
     border-color: rgba(253, 17, 17, 0.37);
     border-width: 3px;
+    background-color: rgba(216, 182, 182, 0.082);
 }
 
 .input-correct{
     border-color: rgba(145, 231, 16, 0.459);
     border-width: 3px;
+    background-color: rgba(175, 236, 89, 0.212);;
 }
 
 .input-neutro{
